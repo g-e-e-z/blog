@@ -1,0 +1,92 @@
+baseURL: "https://alexgordon.com/"
+title: Alex Gordon
+paginate: 20
+theme: PaperModX
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: true
+pygmentsUseClasses: true
+
+# googleAnalytics: ID
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: development
+  title: Alex Gordon - Blog
+  description: "Description"
+  keywords:
+    [
+      Blog,
+      Portfolio,
+      DevOps,
+      Zettelkasten,
+      Second Brain,
+      Linux,
+      Productivity,
+      vim,
+      neovim,
+      unix,
+    ]
+  author: Alex Gordon
+  images: ["https://alexgordon.com/logo.jpeg"]
+  DateFormat: "January 1, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: About
+      name: "About"
+      url: /aboutme/
+      weight: 10
+    - identifier: Resume
+      name: Resume
+      url: /resume/
+      weight: 20
+    - identifier: "Index"
+      name: "Index"
+      url: /archives/
+      weight: 30
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
