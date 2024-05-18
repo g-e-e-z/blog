@@ -76,8 +76,8 @@ menu:
       name: Resume
       url: /resume/
       weight: 20
-    - identifier: "Index"
-      name: "Index"
+    - identifier: "Archives"
+      name: "Archives"
       url: /archives/
       weight: 30
     - identifier: Search
