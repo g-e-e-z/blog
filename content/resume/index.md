@@ -15,12 +15,12 @@ subject: 'Resume'
 ---
 ###### [[alexgordon.com](https://alexgordon.com)] . [ gordon112524@gmail.com] . [ 972-741-9804 ]
 
-> Accomplished Senior Software Engineer with a diverse background in sports performance, biomechanics, and software engineering. Proficient in Python, Golang, and Typescript, with extensive experience in architecting scalable systems, integrating machine learning models, and leveraging geospatial data. Proven track record of mentoring junior developers and leading cross-functional teams.
+> Accomplished Senior Software Engineer with a diverse background in sports performance, biomechanics, and software engineering. Proficient in Python, Golang, and Typescript with extensive experience in architecting scalable systems, integrating machine learning models, and leveraging geospatial data. Proven track record of mentoring junior developers and leading cross-functional teams.
 
 ## Skills
-**Programming**: Python, Golang, Typescript, Lua\
+**Programming**: Python, Golang, Typescript, Bash, Lua\
 **Databases**: Postgres, PostGIS, Redis, MongoDB\
-**Technologies**: Docker, Git, React, AWS, GCP, Datadog, Unix
+**Tools**: Docker, Git, Neovim, AWS, GCP, Datadog, Unix
 
 ## Experience
 
