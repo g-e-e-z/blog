@@ -13,7 +13,7 @@ author:
 - Alex Gordon
 subject: 'Resume'
 ---
-###### [[alexgordon.com](https://alexgordon.com)] . [ gordon112524@gmail.com] . [ 972-741-9804 ]
+###### [[g-e-e-z.github.io/blog/](https://g-e-e-z.github.io/blog/)] . [ gordon112524@gmail.com] . [ 972-741-9804 ]
 
 > Accomplished Senior Software Engineer with a diverse background in sports performance, biomechanics, and software engineering. Proficient in Python, Golang, and Typescript with extensive experience in architecting scalable systems, integrating machine learning models, and leveraging geospatial data. Proven track record of mentoring junior developers and leading cross-functional teams.
 
